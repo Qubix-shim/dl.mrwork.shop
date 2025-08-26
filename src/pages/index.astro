@@ -1,0 +1,66 @@
+---
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+		<link rel="icon" type="image/png" href="/logo.png">
+		<link rel="stylesheet" href="/style.css">
+		<meta name="viewport" content="width=device-width">
+		<meta name="generator" content={Astro.generator}>
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+		<title>Mr. Workshop's Download Server</title>
+  </head>
+  <body>
+	<div class="navbar">
+	<button class="nav" id="nav"><span></span><span></span><span></span></button>
+	</div>
+
+	<div class="overlay" id="overlay">
+	<div class="sidebar">
+		<img src="logo.png">
+		<h2>Mr. Workshop's Download Server</h2>
+		<a href="/">Home</a>
+		<a href="/aurora">Aurora</a>
+		<a href="/sh1mmer">SH1MMER</a>
+		<a href="/nanoshims">Nanoshims</a>
+		<a href="/br0ker">Br0ker</a>
+		<a href="/kvs">KVS</a>
+	</div>
+	</div>
+
+	<script>
+	const nav = document.getElementById("nav");
+	const overlay = document.getElementById("overlay");
+
+	function closeOverlay() {
+		overlay!.classList.remove("active");
+		nav!.classList.remove("active");
+	}
+
+	nav!.addEventListener("click", () => {
+		overlay!.classList.toggle("active");
+		nav!.classList.toggle("active");
+	});
+
+	overlay!.addEventListener("click", (e) => {
+		if (e.target === overlay) closeOverlay();
+	});
+
+	document.addEventListener("keydown", (e) => {
+		if (e.key === "Escape") closeOverlay();
+	});
+	</script>
+	<img src="logo.png" width="20%">
+    <h1>Mr. Workshop's Download Server</h1>
+	<h2>Oh, there goes Mr. Workshop, There goes Mr. Grim<br>If they gave a prize for best downloads the winner would be him</h2>
+	<button class="file" onclick="window.location.href='/aurora'">Aurora</button>
+	<button class="file" onclick="window.location.href='/sh1mmer'">SH1MMER</button>
+	<button class="file" onclick="window.location.href='/br0ker'">Br0ker</button>
+	<button class="file" onclick="window.location.href='/nanoshims'">Nanoshims</button>
+	<button class="file" onclick="window.location.href='/kvs'">KVS</button>
+  </body>
+</html>

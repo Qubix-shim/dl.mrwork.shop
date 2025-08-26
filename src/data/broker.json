@@ -1,0 +1,31 @@
+{
+  "tag_name": "v1.0.0",
+  "name": "Br0ker Prebuilts",
+  "lowercasename": "br0ker",
+  "published_at": "2025-08-26T21:09:40Z",
+  "assets": [
+    {"name": "Br0ker Sh1mmer ambassador.zip", "size": "1.21 GB", "updated_at": "2025-08-26T21:10:01Z", "browser_download_url": "https://nightly.link/EtherealWorkshop/sh1mmer/actions/runs/17243134890/Br0ker%20Sh1mmer%20ambassador.zip"},
+    {"name": "Br0ker Sh1mmer brask.zip", "size": "1.78 GB", "updated_at": "2025-08-26T21:20:10Z", "browser_download_url": "https://nightly.link/EtherealWorkshop/sh1mmer/actions/runs/17243134890/Br0ker%20Sh1mmer%20brask.zip"},
+    {"name": "Br0ker Sh1mmer brya.zip", "size": "2.17 GB", "updated_at": "2025-08-26T21:18:18Z", "browser_download_url": "https://nightly.link/EtherealWorkshop/sh1mmer/actions/runs/17243134890/Br0ker%20Sh1mmer%20brya.zip"},
+    {"name": "Br0ker Sh1mmer coral.zip", "size": "823 MB", "updated_at": "2025-08-26T21:16:28Z", "browser_download_url": "https://nightly.link/EtherealWorkshop/sh1mmer/actions/runs/17243134890/Br0ker%20Sh1mmer%20coral.zip"},
+    {"name": "Br0ker Sh1mmer corsola.zip", "size": "1.89 GB", "updated_at": "2025-08-26T21:13:36Z", "browser_download_url": "https://nightly.link/EtherealWorkshop/sh1mmer/actions/runs/17243134890/Br0ker%20Sh1mmer%20corsola.zip"},
+    {"name": "Br0ker Sh1mmer dedede.zip", "size": "2.08 GB", "updated_at": "2025-08-26T21:14:13Z", "browser_download_url": "https://nightly.link/EtherealWorkshop/sh1mmer/actions/runs/17243134890/Br0ker%20Sh1mmer%20dedede.zip"},
+    {"name": "Br0ker Sh1mmer fizz.zip", "size": "1.63 GB", "updated_at": "2025-08-26T21:16:09Z", "browser_download_url": "https://nightly.link/EtherealWorkshop/sh1mmer/actions/runs/17243134890/Br0ker%20Sh1mmer%20fizz.zip"},
+    {"name": "Br0ker Sh1mmer grunt.zip", "size": "1.5 GB", "updated_at": "2025-08-26T21:13:10Z", "browser_download_url": "https://nightly.link/EtherealWorkshop/sh1mmer/actions/runs/17243134890/Br0ker%20Sh1mmer%20grunt.zip"},
+    {"name": "Br0ker Sh1mmer hatch.zip", "size": "1.83 GB", "updated_at": "2025-08-26T21:11:36Z", "browser_download_url": "https://nightly.link/EtherealWorkshop/sh1mmer/actions/runs/17243134890/Br0ker%20Sh1mmer%20hatch.zip"},
+    {"name": "Br0ker Sh1mmer jacuzzi.zip", "size": "1.6 GB", "updated_at": "2025-08-26T21:11:38Z", "browser_download_url": "https://nightly.link/EtherealWorkshop/sh1mmer/actions/runs/17243134890/Br0ker%20Sh1mmer%20jacuzzi.zip"},
+    {"name": "Br0ker Sh1mmer kalista.zip", "size": "1.64 GB", "updated_at": "2025-08-26T21:15:25Z", "browser_download_url": "https://nightly.link/EtherealWorkshop/sh1mmer/actions/runs/17243134890/Br0ker%20Sh1mmer%20kalista.zip"},
+    {"name": "Br0ker Sh1mmer kukui.zip", "size": "1.83 GB", "updated_at": "2025-08-26T21:12:49Z", "browser_download_url": "https://nightly.link/EtherealWorkshop/sh1mmer/actions/runs/17243134890/Br0ker%20Sh1mmer%20kukui.zip"},
+    {"name": "Br0ker Sh1mmer nami.zip", "size": "1.66 GB", "updated_at": "2025-08-26T21:11:09Z", "browser_download_url": "https://nightly.link/EtherealWorkshop/sh1mmer/actions/runs/17243134890/Br0ker%20Sh1mmer%20nami.zip"},
+    {"name": "Br0ker Sh1mmer octopus.zip", "size": "1.83 GB", "updated_at": "2025-08-26T21:12:59Z", "browser_download_url": "https://nightly.link/EtherealWorkshop/sh1mmer/actions/runs/17243134890/Br0ker%20Sh1mmer%20octopus.zip"},
+    {"name": "Br0ker Sh1mmer puff.zip", "size": "1.71 GB", "updated_at": "2025-08-26T21:11:32Z", "browser_download_url": "https://nightly.link/EtherealWorkshop/sh1mmer/actions/runs/17243134890/Br0ker%20Sh1mmer%20puff.zip"},
+    {"name": "Br0ker Sh1mmer pyro.zip", "size": "779 MB", "updated_at": "2025-08-26T21:10:02Z", "browser_download_url": "https://nightly.link/EtherealWorkshop/sh1mmer/actions/runs/17243134890/Br0ker%20Sh1mmer%20pyro.zip"},
+    {"name": "Br0ker Sh1mmer reef.zip", "size": "779 MB", "updated_at": "2025-08-26T21:13:50Z", "browser_download_url": "https://nightly.link/EtherealWorkshop/sh1mmer/actions/runs/17243134890/Br0ker%20Sh1mmer%20reef.zip"},
+    {"name": "Br0ker Sh1mmer sand.zip", "size": "779 MB", "updated_at": "2025-08-26T21:13:50Z", "browser_download_url": "https://nightly.link/EtherealWorkshop/sh1mmer/actions/runs/17243134890/Br0ker%20Sh1mmer%20sand.zip"},
+    {"name": "Br0ker Sh1mmer snappy.zip", "size": "784 MB", "updated_at": "2025-08-26T21:12:50Z", "browser_download_url": "https://nightly.link/EtherealWorkshop/sh1mmer/actions/runs/17243134890/Br0ker%20Sh1mmer%20snappy.zip"},
+    {"name": "Br0ker Sh1mmer strongbad.zip", "size": "1.61 GB", "updated_at": "2025-08-26T21:15:34Z", "browser_download_url": "https://nightly.link/EtherealWorkshop/sh1mmer/actions/runs/17243134890/Br0ker%20Sh1mmer%20strongbad.zip"},
+    {"name": "Br0ker Sh1mmer trogdor.zip", "size": "1.6 GB", "updated_at": "2025-08-26T21:14:46Z", "browser_download_url": "https://nightly.link/EtherealWorkshop/sh1mmer/actions/runs/17243134890/Br0ker%20Sh1mmer%20trogdor.zip"},
+    {"name": "Br0ker Sh1mmer volteer.zip", "size": "1.79 GB", "updated_at": "2025-08-26T21:15:33Z", "browser_download_url": "https://nightly.link/EtherealWorkshop/sh1mmer/actions/runs/17243134890/Br0ker%20Sh1mmer%20volteer.zip"},
+    {"name": "Br0ker Sh1mmer zork.zip", "size": "1.88 GB", "updated_at": "2025-08-26T21:21:32Z", "browser_download_url": "https://nightly.link/EtherealWorkshop/sh1mmer/actions/runs/17243134890/Br0ker%20Sh1mmer%20zork.zip"}
+  ]
+}
