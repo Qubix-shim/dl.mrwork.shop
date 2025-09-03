@@ -33,7 +33,7 @@
   "immutable": false,
   "prerelease": false,
   "created_at": "2025-08-06T17:06:28Z",
-  "updated_at": "2025-09-03T15:06:19Z",
+  "updated_at": "2025-09-03T15:11:46Z",
   "published_at": "2025-08-06T17:08:59Z",
   "assets": [
     {
@@ -1225,9 +1225,9 @@
       "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v2.0.0/sentry.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279976138",
-      "id": 279976138,
-      "node_id": "RA_kwDOPZdV9c4QsBjK",
+      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/289246365",
+      "id": 289246365,
+      "node_id": "RA_kwDOPZdV9c4RPYyd",
       "name": "snappy.bin",
       "label": "",
       "uploader": {
@@ -1254,10 +1254,10 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 231225344,
-      "digest": "sha256:fc0168b13d10d35a41d27d999f5f3c2a2cd3f763d69ccb8f6d9a2103d732a037",
+      "digest": "sha256:4512ea4231f44a17064ac3a3fde268e1687d548cc78b5a41101dc51903fa3461",
       "download_count": 0,
-      "created_at": "2025-08-06T17:15:05Z",
-      "updated_at": "2025-08-06T17:15:10Z",
+      "created_at": "2025-09-03T15:10:40Z",
+      "updated_at": "2025-09-03T15:10:46Z",
       "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v2.0.0/snappy.bin"
     },
     {
@@ -1477,9 +1477,9 @@
       "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v2.0.0/volteer.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279975450",
-      "id": 279975450,
-      "node_id": "RA_kwDOPZdV9c4QsBYa",
+      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/289246630",
+      "id": 289246630,
+      "node_id": "RA_kwDOPZdV9c4RPY2m",
       "name": "zork.bin",
       "label": "",
       "uploader": {
@@ -1506,10 +1506,10 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 408332288,
-      "digest": "sha256:a5d08dff17ce1a45439a55f18584facb17f6ed3a20042466ca08863a87dd59f6",
-      "download_count": 1,
-      "created_at": "2025-08-06T17:12:38Z",
-      "updated_at": "2025-08-06T17:12:50Z",
+      "digest": "sha256:1415130db8f1c71653b0971970e53b4d6de08195fe9e99a0f1ee91ca56cba780",
+      "download_count": 0,
+      "created_at": "2025-09-03T15:11:35Z",
+      "updated_at": "2025-09-03T15:11:46Z",
       "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v2.0.0/zork.bin"
     }
   ],
