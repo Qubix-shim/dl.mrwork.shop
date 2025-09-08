@@ -1,8 +1,8 @@
 {
-  "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/238439737",
-  "assets_url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/238439737/assets",
-  "upload_url": "https://uploads.github.com/repos/EtherealWorkshop/KVS/releases/238439737/assets{?name,label}",
-  "html_url": "https://github.com/EtherealWorkshop/KVS/releases/tag/v1.0.0",
+  "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/238439737",
+  "assets_url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/238439737/assets",
+  "upload_url": "https://uploads.github.com/repos/AerialiteLabs/KVS/releases/238439737/assets{?name,label}",
+  "html_url": "https://github.com/AerialiteLabs/KVS/releases/tag/v1.0.0",
   "lowercasename": "kvs",
   "id": 238439737,
   "author": {
@@ -38,7 +38,7 @@
   "published_at": "2025-08-07T21:09:40Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280400578",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280400578",
       "id": 280400578,
       "node_id": "RA_kwDOPZo1as4QtpLC",
       "name": "ambassador.bin",
@@ -71,10 +71,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:09:54Z",
       "updated_at": "2025-08-07T21:10:01Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/ambassador.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/ambassador.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280400718",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280400718",
       "id": 280400718,
       "node_id": "RA_kwDOPZo1as4QtpNO",
       "name": "banon.bin",
@@ -107,10 +107,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:10:30Z",
       "updated_at": "2025-08-07T21:10:34Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/banon.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/banon.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280403373",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280403373",
       "id": 280403373,
       "node_id": "RA_kwDOPZo1as4Qtp2t",
       "name": "brask.bin",
@@ -143,10 +143,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:20:02Z",
       "updated_at": "2025-08-07T21:20:10Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/brask.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/brask.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280402756",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280402756",
       "id": 280402756,
       "node_id": "RA_kwDOPZo1as4QtptE",
       "name": "brya.bin",
@@ -179,10 +179,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:18:08Z",
       "updated_at": "2025-08-07T21:18:18Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/brya.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/brya.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280400596",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280400596",
       "id": 280400596,
       "node_id": "RA_kwDOPZo1as4QtpLU",
       "name": "clapper.bin",
@@ -215,10 +215,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:10:00Z",
       "updated_at": "2025-08-07T21:10:05Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/clapper.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/clapper.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280402236",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280402236",
       "id": 280402236,
       "node_id": "RA_kwDOPZo1as4Qtpk8",
       "name": "coral.bin",
@@ -251,10 +251,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:16:21Z",
       "updated_at": "2025-08-07T21:16:28Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/coral.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/coral.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280401559",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280401559",
       "id": 280401559,
       "node_id": "RA_kwDOPZo1as4QtpaX",
       "name": "corsola.bin",
@@ -287,10 +287,10 @@
       "download_count": 7,
       "created_at": "2025-08-07T21:13:27Z",
       "updated_at": "2025-08-07T21:13:36Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/corsola.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/corsola.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280400899",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280400899",
       "id": 280400899,
       "node_id": "RA_kwDOPZo1as4QtpQD",
       "name": "cyan.bin",
@@ -323,10 +323,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:11:15Z",
       "updated_at": "2025-08-07T21:11:20Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/cyan.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/cyan.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280401694",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280401694",
       "id": 280401694,
       "node_id": "RA_kwDOPZo1as4Qtpce",
       "name": "dedede.bin",
@@ -359,10 +359,10 @@
       "download_count": 16,
       "created_at": "2025-08-07T21:14:06Z",
       "updated_at": "2025-08-07T21:14:13Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/dedede.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/dedede.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280401171",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280401171",
       "id": 280401171,
       "node_id": "RA_kwDOPZo1as4QtpUT",
       "name": "edgar.bin",
@@ -395,10 +395,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:12:18Z",
       "updated_at": "2025-08-07T21:12:22Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/edgar.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/edgar.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280400705",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280400705",
       "id": 280400705,
       "node_id": "RA_kwDOPZo1as4QtpNB",
       "name": "elm.bin",
@@ -431,10 +431,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:10:26Z",
       "updated_at": "2025-08-07T21:10:30Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/elm.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/elm.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280400520",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280400520",
       "id": 280400520,
       "node_id": "RA_kwDOPZo1as4QtpKI",
       "name": "enguarde.bin",
@@ -467,10 +467,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:09:41Z",
       "updated_at": "2025-08-07T21:09:45Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/enguarde.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/enguarde.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280402138",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280402138",
       "id": 280402138,
       "node_id": "RA_kwDOPZo1as4Qtpja",
       "name": "fizz.bin",
@@ -503,10 +503,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:16:04Z",
       "updated_at": "2025-08-07T21:16:09Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/fizz.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/fizz.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280400574",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280400574",
       "id": 280400574,
       "node_id": "RA_kwDOPZo1as4QtpK-",
       "name": "glimmer.bin",
@@ -539,10 +539,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:09:53Z",
       "updated_at": "2025-08-07T21:09:57Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/glimmer.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/glimmer.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280401435",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280401435",
       "id": 280401435,
       "node_id": "RA_kwDOPZo1as4QtpYb",
       "name": "grunt.bin",
@@ -575,10 +575,10 @@
       "download_count": 6,
       "created_at": "2025-08-07T21:13:03Z",
       "updated_at": "2025-08-07T21:13:10Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/grunt.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/grunt.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280402307",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280402307",
       "id": 280402307,
       "node_id": "RA_kwDOPZo1as4QtpmD",
       "name": "hana.bin",
@@ -611,10 +611,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:16:32Z",
       "updated_at": "2025-08-07T21:16:37Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/hana.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/hana.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280400954",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280400954",
       "id": 280400954,
       "node_id": "RA_kwDOPZo1as4QtpQ6",
       "name": "hatch.bin",
@@ -647,10 +647,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:11:26Z",
       "updated_at": "2025-08-07T21:11:36Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/hatch.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/hatch.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280400951",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280400951",
       "id": 280400951,
       "node_id": "RA_kwDOPZo1as4QtpQ3",
       "name": "jacuzzi.bin",
@@ -683,10 +683,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:11:23Z",
       "updated_at": "2025-08-07T21:11:38Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/jacuzzi.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/jacuzzi.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280401995",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280401995",
       "id": 280401995,
       "node_id": "RA_kwDOPZo1as4QtphL",
       "name": "kalista.bin",
@@ -719,10 +719,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:15:20Z",
       "updated_at": "2025-08-07T21:15:25Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/kalista.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/kalista.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280400674",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280400674",
       "id": 280400674,
       "node_id": "RA_kwDOPZo1as4QtpMi",
       "name": "kefka.bin",
@@ -755,10 +755,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:10:21Z",
       "updated_at": "2025-08-07T21:10:25Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/kefka.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/kefka.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280401272",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280401272",
       "id": 280401272,
       "node_id": "RA_kwDOPZo1as4QtpV4",
       "name": "kukui.bin",
@@ -791,10 +791,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:12:39Z",
       "updated_at": "2025-08-07T21:12:49Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/kukui.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/kukui.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280401233",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280401233",
       "id": 280401233,
       "node_id": "RA_kwDOPZo1as4QtpVR",
       "name": "lulu.bin",
@@ -827,10 +827,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:12:32Z",
       "updated_at": "2025-08-07T21:12:37Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/lulu.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/lulu.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280400843",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280400843",
       "id": 280400843,
       "node_id": "RA_kwDOPZo1as4QtpPL",
       "name": "nami.bin",
@@ -863,10 +863,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:11:02Z",
       "updated_at": "2025-08-07T21:11:09Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/nami.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/nami.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280403494",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280403494",
       "id": 280403494,
       "node_id": "RA_kwDOPZo1as4Qtp4m",
       "name": "nissa.bin",
@@ -899,10 +899,10 @@
       "download_count": 9,
       "created_at": "2025-08-07T21:20:23Z",
       "updated_at": "2025-08-07T21:20:32Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/nissa.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/nissa.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280401359",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280401359",
       "id": 280401359,
       "node_id": "RA_kwDOPZo1as4QtpXP",
       "name": "octopus.bin",
@@ -935,10 +935,10 @@
       "download_count": 2,
       "created_at": "2025-08-07T21:12:52Z",
       "updated_at": "2025-08-07T21:12:59Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/octopus.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/octopus.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280401011",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280401011",
       "id": 280401011,
       "node_id": "RA_kwDOPZo1as4QtpRz",
       "name": "orco.bin",
@@ -971,10 +971,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:11:41Z",
       "updated_at": "2025-08-07T21:11:47Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/orco.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/orco.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280400957",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280400957",
       "id": 280400957,
       "node_id": "RA_kwDOPZo1as4QtpQ9",
       "name": "puff.bin",
@@ -1007,10 +1007,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:11:27Z",
       "updated_at": "2025-08-07T21:11:32Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/puff.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/puff.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280400583",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280400583",
       "id": 280400583,
       "node_id": "RA_kwDOPZo1as4QtpLH",
       "name": "pyro.bin",
@@ -1043,10 +1043,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:09:57Z",
       "updated_at": "2025-08-07T21:10:02Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/pyro.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/pyro.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280401636",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280401636",
       "id": 280401636,
       "node_id": "RA_kwDOPZo1as4Qtpbk",
       "name": "reef.bin",
@@ -1079,10 +1079,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:13:46Z",
       "updated_at": "2025-08-07T21:13:50Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/reef.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/reef.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280401886",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280401886",
       "id": 280401886,
       "node_id": "RA_kwDOPZo1as4Qtpfe",
       "name": "reks.bin",
@@ -1115,10 +1115,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:14:52Z",
       "updated_at": "2025-08-07T21:14:56Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/reks.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/reks.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280401139",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280401139",
       "id": 280401139,
       "node_id": "RA_kwDOPZo1as4QtpTz",
       "name": "relm.bin",
@@ -1151,10 +1151,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:12:04Z",
       "updated_at": "2025-08-07T21:12:08Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/relm.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/relm.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280401637",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280401637",
       "id": 280401637,
       "node_id": "RA_kwDOPZo1as4Qtpbl",
       "name": "sand.bin",
@@ -1187,10 +1187,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:13:46Z",
       "updated_at": "2025-08-07T21:13:50Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/sand.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/sand.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280402619",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280402619",
       "id": 280402619,
       "node_id": "RA_kwDOPZo1as4Qtpq7",
       "name": "sentry.bin",
@@ -1223,10 +1223,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:17:37Z",
       "updated_at": "2025-08-07T21:17:44Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/sentry.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/sentry.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280401318",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280401318",
       "id": 280401318,
       "node_id": "RA_kwDOPZo1as4QtpWm",
       "name": "snappy.bin",
@@ -1259,10 +1259,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:12:46Z",
       "updated_at": "2025-08-07T21:12:50Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/snappy.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/snappy.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280402366",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280402366",
       "id": 280402366,
       "node_id": "RA_kwDOPZo1as4Qtpm-",
       "name": "stout.bin",
@@ -1295,10 +1295,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:16:38Z",
       "updated_at": "2025-08-07T21:16:53Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/stout.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/stout.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280402010",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280402010",
       "id": 280402010,
       "node_id": "RA_kwDOPZo1as4Qtpha",
       "name": "strongbad.bin",
@@ -1331,10 +1331,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:15:25Z",
       "updated_at": "2025-08-07T21:15:34Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/strongbad.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/strongbad.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280401800",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280401800",
       "id": 280401800,
       "node_id": "RA_kwDOPZo1as4QtpeI",
       "name": "tidus.bin",
@@ -1367,10 +1367,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:14:30Z",
       "updated_at": "2025-08-07T21:14:34Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/tidus.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/tidus.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280401856",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280401856",
       "id": 280401856,
       "node_id": "RA_kwDOPZo1as4QtpfA",
       "name": "trogdor.bin",
@@ -1403,10 +1403,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:14:41Z",
       "updated_at": "2025-08-07T21:14:46Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/trogdor.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/trogdor.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280401731",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280401731",
       "id": 280401731,
       "node_id": "RA_kwDOPZo1as4QtpdD",
       "name": "ultima.bin",
@@ -1439,10 +1439,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:14:12Z",
       "updated_at": "2025-08-07T21:14:17Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/ultima.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/ultima.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280402020",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280402020",
       "id": 280402020,
       "node_id": "RA_kwDOPZo1as4Qtphk",
       "name": "volteer.bin",
@@ -1475,10 +1475,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:15:26Z",
       "updated_at": "2025-08-07T21:15:33Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/volteer.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/volteer.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/KVS/releases/assets/280403752",
+      "url": "https://api.github.com/repos/AerialiteLabs/KVS/releases/assets/280403752",
       "id": 280403752,
       "node_id": "RA_kwDOPZo1as4Qtp8o",
       "name": "zork.bin",
@@ -1511,10 +1511,10 @@
       "download_count": 1,
       "created_at": "2025-08-07T21:21:20Z",
       "updated_at": "2025-08-07T21:21:32Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/KVS/releases/download/v1.0.0/zork.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/KVS/releases/download/v1.0.0/zork.bin"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/EtherealWorkshop/KVS/tarball/v1.0.0",
-  "zipball_url": "https://api.github.com/repos/EtherealWorkshop/KVS/zipball/v1.0.0",
+  "tarball_url": "https://api.github.com/repos/AerialiteLabs/KVS/tarball/v1.0.0",
+  "zipball_url": "https://api.github.com/repos/AerialiteLabs/KVS/zipball/v1.0.0",
   "body": ""
 }

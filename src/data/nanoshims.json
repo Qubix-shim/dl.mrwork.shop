@@ -1,8 +1,8 @@
 {
-  "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/238046397",
-  "assets_url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/238046397/assets",
-  "upload_url": "https://uploads.github.com/repos/EtherealWorkshop/sh1mmer/releases/238046397/assets{?name,label}",
-  "html_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/tag/v1.0.0",
+  "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/238046397",
+  "assets_url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/238046397/assets",
+  "upload_url": "https://uploads.github.com/repos/AerialiteLabs/sh1mmer/releases/238046397/assets{?name,label}",
+  "html_url": "https://github.com/AerialiteLabs/sh1mmer/releases/tag/v1.0.0",
   "lowercasename": "nanoshims",
   "id": 238046397,
   "author": {
@@ -38,7 +38,7 @@
   "published_at": "2025-08-06T16:48:42Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279969193",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279969193",
       "id": 279969193,
       "node_id": "RA_kwDOPZdV9c4Qr_2p",
       "name": "ambassador.bin",
@@ -71,10 +71,10 @@
       "download_count": 14,
       "created_at": "2025-08-06T16:49:27Z",
       "updated_at": "2025-08-06T16:49:41Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/ambassador.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/ambassador.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279969152",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279969152",
       "id": 279969152,
       "node_id": "RA_kwDOPZdV9c4Qr_2A",
       "name": "banon.bin",
@@ -107,10 +107,10 @@
       "download_count": 16,
       "created_at": "2025-08-06T16:49:14Z",
       "updated_at": "2025-08-06T16:49:29Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/banon.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/banon.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279969376",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279969376",
       "id": 279969376,
       "node_id": "RA_kwDOPZdV9c4Qr_5g",
       "name": "brask.bin",
@@ -143,10 +143,10 @@
       "download_count": 16,
       "created_at": "2025-08-06T16:50:20Z",
       "updated_at": "2025-08-06T16:50:38Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/brask.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/brask.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279970282",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279970282",
       "id": 279970282,
       "node_id": "RA_kwDOPZdV9c4QsAHq",
       "name": "brya.bin",
@@ -179,10 +179,10 @@
       "download_count": 16,
       "created_at": "2025-08-06T16:54:23Z",
       "updated_at": "2025-08-06T16:54:47Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/brya.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/brya.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279969494",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279969494",
       "id": 279969494,
       "node_id": "RA_kwDOPZdV9c4Qr_7W",
       "name": "clapper.bin",
@@ -215,10 +215,10 @@
       "download_count": 16,
       "created_at": "2025-08-06T16:50:55Z",
       "updated_at": "2025-08-06T16:51:10Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/clapper.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/clapper.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279970067",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279970067",
       "id": 279970067,
       "node_id": "RA_kwDOPZdV9c4QsAET",
       "name": "coral.bin",
@@ -251,10 +251,10 @@
       "download_count": 15,
       "created_at": "2025-08-06T16:53:34Z",
       "updated_at": "2025-08-06T16:53:56Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/coral.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/coral.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279969739",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279969739",
       "id": 279969739,
       "node_id": "RA_kwDOPZdV9c4Qr__L",
       "name": "corsola.bin",
@@ -287,10 +287,10 @@
       "download_count": 16,
       "created_at": "2025-08-06T16:52:14Z",
       "updated_at": "2025-08-06T16:52:42Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/corsola.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/corsola.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279969255",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279969255",
       "id": 279969255,
       "node_id": "RA_kwDOPZdV9c4Qr_3n",
       "name": "cyan.bin",
@@ -323,10 +323,10 @@
       "download_count": 12,
       "created_at": "2025-08-06T16:49:40Z",
       "updated_at": "2025-08-06T16:49:52Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/cyan.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/cyan.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279970766",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279970766",
       "id": 279970766,
       "node_id": "RA_kwDOPZdV9c4QsAPO",
       "name": "dedede.bin",
@@ -359,10 +359,10 @@
       "download_count": 42,
       "created_at": "2025-08-06T16:56:47Z",
       "updated_at": "2025-08-06T16:57:06Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/dedede.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/dedede.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279969067",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279969067",
       "id": 279969067,
       "node_id": "RA_kwDOPZdV9c4Qr_0r",
       "name": "edgar.bin",
@@ -395,10 +395,10 @@
       "download_count": 15,
       "created_at": "2025-08-06T16:48:43Z",
       "updated_at": "2025-08-06T16:48:55Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/edgar.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/edgar.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279970710",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279970710",
       "id": 279970710,
       "node_id": "RA_kwDOPZdV9c4QsAOW",
       "name": "elm.bin",
@@ -431,10 +431,10 @@
       "download_count": 14,
       "created_at": "2025-08-06T16:56:31Z",
       "updated_at": "2025-08-06T16:56:44Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/elm.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/elm.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279969137",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279969137",
       "id": 279969137,
       "node_id": "RA_kwDOPZdV9c4Qr_1x",
       "name": "enguarde.bin",
@@ -467,10 +467,10 @@
       "download_count": 14,
       "created_at": "2025-08-06T16:49:07Z",
       "updated_at": "2025-08-06T16:49:17Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/enguarde.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/enguarde.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279970392",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279970392",
       "id": 279970392,
       "node_id": "RA_kwDOPZdV9c4QsAJY",
       "name": "fizz.bin",
@@ -503,10 +503,10 @@
       "download_count": 16,
       "created_at": "2025-08-06T16:54:57Z",
       "updated_at": "2025-08-06T16:55:11Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/fizz.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/fizz.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279969993",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279969993",
       "id": 279969993,
       "node_id": "RA_kwDOPZdV9c4QsADJ",
       "name": "glimmer.bin",
@@ -539,10 +539,10 @@
       "download_count": 15,
       "created_at": "2025-08-06T16:53:19Z",
       "updated_at": "2025-08-06T16:53:26Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/glimmer.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/glimmer.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279970667",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279970667",
       "id": 279970667,
       "node_id": "RA_kwDOPZdV9c4QsANr",
       "name": "grunt.bin",
@@ -575,10 +575,10 @@
       "download_count": 13,
       "created_at": "2025-08-06T16:56:14Z",
       "updated_at": "2025-08-06T16:56:32Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/grunt.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/grunt.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279970315",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279970315",
       "id": 279970315,
       "node_id": "RA_kwDOPZdV9c4QsAIL",
       "name": "hana.bin",
@@ -611,10 +611,10 @@
       "download_count": 14,
       "created_at": "2025-08-06T16:54:36Z",
       "updated_at": "2025-08-06T16:54:55Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/hana.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/hana.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279971427",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279971427",
       "id": 279971427,
       "node_id": "RA_kwDOPZdV9c4QsAZj",
       "name": "hatch.bin",
@@ -647,10 +647,10 @@
       "download_count": 13,
       "created_at": "2025-08-06T16:59:18Z",
       "updated_at": "2025-08-06T16:59:27Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/hatch.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/hatch.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279969279",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279969279",
       "id": 279969279,
       "node_id": "RA_kwDOPZdV9c4Qr_3_",
       "name": "jacuzzi.bin",
@@ -683,10 +683,10 @@
       "download_count": 21,
       "created_at": "2025-08-06T16:49:48Z",
       "updated_at": "2025-08-06T16:50:04Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/jacuzzi.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/jacuzzi.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279970363",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279970363",
       "id": 279970363,
       "node_id": "RA_kwDOPZdV9c4QsAI7",
       "name": "kalista.bin",
@@ -719,10 +719,10 @@
       "download_count": 14,
       "created_at": "2025-08-06T16:54:47Z",
       "updated_at": "2025-08-06T16:55:03Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/kalista.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/kalista.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279969580",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279969580",
       "id": 279969580,
       "node_id": "RA_kwDOPZdV9c4Qr_8s",
       "name": "kefka.bin",
@@ -755,10 +755,10 @@
       "download_count": 16,
       "created_at": "2025-08-06T16:51:23Z",
       "updated_at": "2025-08-06T16:51:36Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/kefka.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/kefka.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279969858",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279969858",
       "id": 279969858,
       "node_id": "RA_kwDOPZdV9c4QsABC",
       "name": "kukui.bin",
@@ -791,10 +791,10 @@
       "download_count": 15,
       "created_at": "2025-08-06T16:52:36Z",
       "updated_at": "2025-08-06T16:52:54Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/kukui.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/kukui.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279969907",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279969907",
       "id": 279969907,
       "node_id": "RA_kwDOPZdV9c4QsABz",
       "name": "lulu.bin",
@@ -827,10 +827,10 @@
       "download_count": 13,
       "created_at": "2025-08-06T16:52:50Z",
       "updated_at": "2025-08-06T16:53:09Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/lulu.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/lulu.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279969708",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279969708",
       "id": 279969708,
       "node_id": "RA_kwDOPZdV9c4Qr_-s",
       "name": "nami.bin",
@@ -863,10 +863,10 @@
       "download_count": 15,
       "created_at": "2025-08-06T16:51:59Z",
       "updated_at": "2025-08-06T16:52:21Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/nami.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/nami.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279969925",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279969925",
       "id": 279969925,
       "node_id": "RA_kwDOPZdV9c4QsACF",
       "name": "nissa.bin",
@@ -899,10 +899,10 @@
       "download_count": 18,
       "created_at": "2025-08-06T16:52:58Z",
       "updated_at": "2025-08-06T16:53:16Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/nissa.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/nissa.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279970472",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279970472",
       "id": 279970472,
       "node_id": "RA_kwDOPZdV9c4QsAKo",
       "name": "octopus.bin",
@@ -935,10 +935,10 @@
       "download_count": 24,
       "created_at": "2025-08-06T16:55:21Z",
       "updated_at": "2025-08-06T16:55:43Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/octopus.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/octopus.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279969124",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279969124",
       "id": 279969124,
       "node_id": "RA_kwDOPZdV9c4Qr_1k",
       "name": "orco.bin",
@@ -971,10 +971,10 @@
       "download_count": 12,
       "created_at": "2025-08-06T16:49:00Z",
       "updated_at": "2025-08-06T16:49:16Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/orco.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/orco.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279970565",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279970565",
       "id": 279970565,
       "node_id": "RA_kwDOPZdV9c4QsAMF",
       "name": "puff.bin",
@@ -1007,10 +1007,10 @@
       "download_count": 12,
       "created_at": "2025-08-06T16:55:48Z",
       "updated_at": "2025-08-06T16:55:59Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/puff.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/puff.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279971026",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279971026",
       "id": 279971026,
       "node_id": "RA_kwDOPZdV9c4QsATS",
       "name": "pyro.bin",
@@ -1043,10 +1043,10 @@
       "download_count": 12,
       "created_at": "2025-08-06T16:58:00Z",
       "updated_at": "2025-08-06T16:58:20Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/pyro.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/pyro.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279969245",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279969245",
       "id": 279969245,
       "node_id": "RA_kwDOPZdV9c4Qr_3d",
       "name": "reef.bin",
@@ -1079,10 +1079,10 @@
       "download_count": 14,
       "created_at": "2025-08-06T16:49:36Z",
       "updated_at": "2025-08-06T16:49:50Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/reef.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/reef.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279969632",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279969632",
       "id": 279969632,
       "node_id": "RA_kwDOPZdV9c4Qr_9g",
       "name": "reks.bin",
@@ -1115,10 +1115,10 @@
       "download_count": 13,
       "created_at": "2025-08-06T16:51:41Z",
       "updated_at": "2025-08-06T16:51:51Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/reks.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/reks.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279970515",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279970515",
       "id": 279970515,
       "node_id": "RA_kwDOPZdV9c4QsALT",
       "name": "relm.bin",
@@ -1151,10 +1151,10 @@
       "download_count": 14,
       "created_at": "2025-08-06T16:55:33Z",
       "updated_at": "2025-08-06T16:55:48Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/relm.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/relm.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279970421",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279970421",
       "id": 279970421,
       "node_id": "RA_kwDOPZdV9c4QsAJ1",
       "name": "sand.bin",
@@ -1187,10 +1187,10 @@
       "download_count": 13,
       "created_at": "2025-08-06T16:55:06Z",
       "updated_at": "2025-08-06T16:55:22Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/sand.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/sand.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279969344",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279969344",
       "id": 279969344,
       "node_id": "RA_kwDOPZdV9c4Qr_5A",
       "name": "sentry.bin",
@@ -1223,10 +1223,10 @@
       "download_count": 13,
       "created_at": "2025-08-06T16:50:10Z",
       "updated_at": "2025-08-06T16:50:23Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/sentry.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/sentry.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279969576",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279969576",
       "id": 279969576,
       "node_id": "RA_kwDOPZdV9c4Qr_8o",
       "name": "snappy.bin",
@@ -1259,10 +1259,10 @@
       "download_count": 12,
       "created_at": "2025-08-06T16:51:21Z",
       "updated_at": "2025-08-06T16:51:32Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/snappy.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/snappy.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279969101",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279969101",
       "id": 279969101,
       "node_id": "RA_kwDOPZdV9c4Qr_1N",
       "name": "stout.bin",
@@ -1295,10 +1295,10 @@
       "download_count": 13,
       "created_at": "2025-08-06T16:48:54Z",
       "updated_at": "2025-08-06T16:49:06Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/stout.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/stout.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279970792",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279970792",
       "id": 279970792,
       "node_id": "RA_kwDOPZdV9c4QsAPo",
       "name": "strongbad.bin",
@@ -1331,10 +1331,10 @@
       "download_count": 14,
       "created_at": "2025-08-06T16:56:54Z",
       "updated_at": "2025-08-06T16:57:14Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/strongbad.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/strongbad.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279970298",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279970298",
       "id": 279970298,
       "node_id": "RA_kwDOPZdV9c4QsAH6",
       "name": "tidus.bin",
@@ -1367,10 +1367,10 @@
       "download_count": 12,
       "created_at": "2025-08-06T16:54:28Z",
       "updated_at": "2025-08-06T16:54:37Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/tidus.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/tidus.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279970889",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279970889",
       "id": 279970889,
       "node_id": "RA_kwDOPZdV9c4QsARJ",
       "name": "trogdor.bin",
@@ -1403,10 +1403,10 @@
       "download_count": 12,
       "created_at": "2025-08-06T16:57:26Z",
       "updated_at": "2025-08-06T16:57:46Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/trogdor.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/trogdor.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279970238",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279970238",
       "id": 279970238,
       "node_id": "RA_kwDOPZdV9c4QsAG-",
       "name": "ultima.bin",
@@ -1439,10 +1439,10 @@
       "download_count": 13,
       "created_at": "2025-08-06T16:54:11Z",
       "updated_at": "2025-08-06T16:54:26Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/ultima.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/ultima.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279970383",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279970383",
       "id": 279970383,
       "node_id": "RA_kwDOPZdV9c4QsAJP",
       "name": "volteer.bin",
@@ -1475,10 +1475,10 @@
       "download_count": 13,
       "created_at": "2025-08-06T16:54:54Z",
       "updated_at": "2025-08-06T16:55:09Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/volteer.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/volteer.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/releases/assets/279970660",
+      "url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/releases/assets/279970660",
       "id": 279970660,
       "node_id": "RA_kwDOPZdV9c4QsANk",
       "name": "zork.bin",
@@ -1511,10 +1511,10 @@
       "download_count": 13,
       "created_at": "2025-08-06T16:56:10Z",
       "updated_at": "2025-08-06T16:56:26Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/sh1mmer/releases/download/v1.0.0/zork.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/sh1mmer/releases/download/v1.0.0/zork.bin"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/tarball/v1.0.0",
-  "zipball_url": "https://api.github.com/repos/EtherealWorkshop/sh1mmer/zipball/v1.0.0",
+  "tarball_url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/tarball/v1.0.0",
+  "zipball_url": "https://api.github.com/repos/AerialiteLabs/sh1mmer/zipball/v1.0.0",
   "body": ""
 }

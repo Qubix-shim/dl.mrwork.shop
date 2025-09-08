@@ -1,5 +1,5 @@
 {
-  "name": "dl.etherealwork.shop",
+  "name": "dl.mrwork.shop",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -16,13 +16,13 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EtherealWorkshop/dl.etherealwork.shop.git"
+    "url": "git+https://github.com/AerialiteLabs/dl.mrwork.shop.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/EtherealWorkshop/dl.etherealwork.shop/issues"
+    "url": "https://github.com/AerialiteLabs/dl.mrwork.shop/issues"
   },
-  "homepage": "https://github.com/EtherealWorkshop/dl.etherealwork.shop#readme"
+  "homepage": "https://github.com/AerialiteLabs/dl.mrwork.shop#readme"
 }

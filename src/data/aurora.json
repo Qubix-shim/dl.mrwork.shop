@@ -1,8 +1,8 @@
 {
-  "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/239855212",
-  "assets_url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/239855212/assets",
-  "upload_url": "https://uploads.github.com/repos/EtherealWorkshop/Aurora/releases/239855212/assets{?name,label}",
-  "html_url": "https://github.com/EtherealWorkshop/Aurora/releases/tag/v1.0.0",
+  "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/239855212",
+  "assets_url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/239855212/assets",
+  "upload_url": "https://uploads.github.com/repos/AerialiteLabs/Aurora/releases/239855212/assets{?name,label}",
+  "html_url": "https://github.com/AerialiteLabs/Aurora/releases/tag/v1.0.0",
   "id": 239855212,
   "author": {
     "login": "github-actions[bot]",
@@ -37,7 +37,7 @@
   "published_at": "2025-08-14T03:50:06Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927274",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927274",
       "id": 289927274,
       "node_id": "RA_kwDOO-FFfs4RR_Bq",
       "name": "ambassador-aurora.bin",
@@ -70,10 +70,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:26:51Z",
       "updated_at": "2025-09-05T07:27:15Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/ambassador-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/ambassador-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927473",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927473",
       "id": 289927473,
       "node_id": "RA_kwDOO-FFfs4RR_Ex",
       "name": "banon-aurora.bin",
@@ -106,10 +106,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:27:56Z",
       "updated_at": "2025-09-05T07:28:14Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/banon-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/banon-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927512",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927512",
       "id": 289927512,
       "node_id": "RA_kwDOO-FFfs4RR_FY",
       "name": "brask-aurora.bin",
@@ -142,10 +142,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:28:09Z",
       "updated_at": "2025-09-05T07:28:34Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/brask-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/brask-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927263",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927263",
       "id": 289927263,
       "node_id": "RA_kwDOO-FFfs4RR_Bf",
       "name": "brya-aurora.bin",
@@ -178,10 +178,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:26:44Z",
       "updated_at": "2025-09-05T07:26:55Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/brya-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/brya-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927396",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927396",
       "id": 289927396,
       "node_id": "RA_kwDOO-FFfs4RR_Dk",
       "name": "clapper-aurora.bin",
@@ -214,10 +214,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:27:36Z",
       "updated_at": "2025-09-05T07:27:59Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/clapper-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/clapper-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927430",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927430",
       "id": 289927430,
       "node_id": "RA_kwDOO-FFfs4RR_EG",
       "name": "coral-aurora.bin",
@@ -250,10 +250,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:27:46Z",
       "updated_at": "2025-09-05T07:28:08Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/coral-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/coral-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927271",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927271",
       "id": 289927271,
       "node_id": "RA_kwDOO-FFfs4RR_Bn",
       "name": "corsola-aurora.bin",
@@ -286,10 +286,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:26:48Z",
       "updated_at": "2025-09-05T07:27:10Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/corsola-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/corsola-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927397",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927397",
       "id": 289927397,
       "node_id": "RA_kwDOO-FFfs4RR_Dl",
       "name": "cyan-aurora.bin",
@@ -322,10 +322,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:27:36Z",
       "updated_at": "2025-09-05T07:27:49Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/cyan-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/cyan-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927266",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927266",
       "id": 289927266,
       "node_id": "RA_kwDOO-FFfs4RR_Bi",
       "name": "dedede-aurora.bin",
@@ -358,10 +358,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:26:46Z",
       "updated_at": "2025-09-05T07:27:12Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/dedede-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/dedede-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927320",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927320",
       "id": 289927320,
       "node_id": "RA_kwDOO-FFfs4RR_CY",
       "name": "edgar-aurora.bin",
@@ -394,10 +394,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:27:10Z",
       "updated_at": "2025-09-05T07:27:26Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/edgar-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/edgar-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927259",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927259",
       "id": 289927259,
       "node_id": "RA_kwDOO-FFfs4RR_Bb",
       "name": "elm-aurora.bin",
@@ -430,10 +430,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:26:41Z",
       "updated_at": "2025-09-05T07:26:57Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/elm-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/elm-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927362",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927362",
       "id": 289927362,
       "node_id": "RA_kwDOO-FFfs4RR_DC",
       "name": "enguarde-aurora.bin",
@@ -466,10 +466,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:27:28Z",
       "updated_at": "2025-09-05T07:27:48Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/enguarde-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/enguarde-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927350",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927350",
       "id": 289927350,
       "node_id": "RA_kwDOO-FFfs4RR_C2",
       "name": "fizz-aurora.bin",
@@ -502,10 +502,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:27:24Z",
       "updated_at": "2025-09-05T07:27:44Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/fizz-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/fizz-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927311",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927311",
       "id": 289927311,
       "node_id": "RA_kwDOO-FFfs4RR_CP",
       "name": "glimmer-aurora.bin",
@@ -538,10 +538,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:27:07Z",
       "updated_at": "2025-09-05T07:27:25Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/glimmer-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/glimmer-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927500",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927500",
       "id": 289927500,
       "node_id": "RA_kwDOO-FFfs4RR_FM",
       "name": "grunt-aurora.bin",
@@ -574,10 +574,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:28:05Z",
       "updated_at": "2025-09-05T07:28:26Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/grunt-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/grunt-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927637",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927637",
       "id": 289927637,
       "node_id": "RA_kwDOO-FFfs4RR_HV",
       "name": "hana-aurora.bin",
@@ -610,10 +610,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:28:58Z",
       "updated_at": "2025-09-05T07:29:25Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/hana-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/hana-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927234",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927234",
       "id": 289927234,
       "node_id": "RA_kwDOO-FFfs4RR_BC",
       "name": "hatch-aurora.bin",
@@ -646,10 +646,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:26:36Z",
       "updated_at": "2025-09-05T07:26:55Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/hatch-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/hatch-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927648",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927648",
       "id": 289927648,
       "node_id": "RA_kwDOO-FFfs4RR_Hg",
       "name": "jacuzzi-aurora.bin",
@@ -682,10 +682,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:29:00Z",
       "updated_at": "2025-09-05T07:29:14Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/jacuzzi-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/jacuzzi-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927240",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927240",
       "id": 289927240,
       "node_id": "RA_kwDOO-FFfs4RR_BI",
       "name": "kalista-aurora.bin",
@@ -718,10 +718,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:26:38Z",
       "updated_at": "2025-09-05T07:26:57Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/kalista-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/kalista-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927691",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927691",
       "id": 289927691,
       "node_id": "RA_kwDOO-FFfs4RR_IL",
       "name": "kefka-aurora.bin",
@@ -754,10 +754,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:29:22Z",
       "updated_at": "2025-09-05T07:29:47Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/kefka-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/kefka-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927745",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927745",
       "id": 289927745,
       "node_id": "RA_kwDOO-FFfs4RR_JB",
       "name": "kukui-aurora.bin",
@@ -790,10 +790,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:29:38Z",
       "updated_at": "2025-09-05T07:30:04Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/kukui-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/kukui-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927339",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927339",
       "id": 289927339,
       "node_id": "RA_kwDOO-FFfs4RR_Cr",
       "name": "lulu-aurora.bin",
@@ -826,10 +826,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:27:20Z",
       "updated_at": "2025-09-05T07:27:45Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/lulu-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/lulu-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927267",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927267",
       "id": 289927267,
       "node_id": "RA_kwDOO-FFfs4RR_Bj",
       "name": "nami-aurora.bin",
@@ -862,10 +862,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:26:46Z",
       "updated_at": "2025-09-05T07:27:15Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/nami-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/nami-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927380",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927380",
       "id": 289927380,
       "node_id": "RA_kwDOO-FFfs4RR_DU",
       "name": "nissa-aurora.bin",
@@ -898,10 +898,10 @@
       "download_count": 1,
       "created_at": "2025-09-05T07:27:31Z",
       "updated_at": "2025-09-05T07:27:54Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/nissa-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/nissa-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927524",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927524",
       "id": 289927524,
       "node_id": "RA_kwDOO-FFfs4RR_Fk",
       "name": "octopus-aurora.bin",
@@ -934,10 +934,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:28:15Z",
       "updated_at": "2025-09-05T07:28:32Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/octopus-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/octopus-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927848",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927848",
       "id": 289927848,
       "node_id": "RA_kwDOO-FFfs4RR_Ko",
       "name": "orco-aurora.bin",
@@ -970,10 +970,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:30:21Z",
       "updated_at": "2025-09-05T07:30:36Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/orco-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/orco-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927802",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927802",
       "id": 289927802,
       "node_id": "RA_kwDOO-FFfs4RR_J6",
       "name": "puff-aurora.bin",
@@ -1006,10 +1006,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:30:01Z",
       "updated_at": "2025-09-05T07:30:25Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/puff-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/puff-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927905",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927905",
       "id": 289927905,
       "node_id": "RA_kwDOO-FFfs4RR_Lh",
       "name": "pyro-aurora.bin",
@@ -1042,10 +1042,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:31:04Z",
       "updated_at": "2025-09-05T07:31:29Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/pyro-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/pyro-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927809",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927809",
       "id": 289927809,
       "node_id": "RA_kwDOO-FFfs4RR_KB",
       "name": "reef-aurora.bin",
@@ -1078,10 +1078,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:30:06Z",
       "updated_at": "2025-09-05T07:30:27Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/reef-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/reef-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927770",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927770",
       "id": 289927770,
       "node_id": "RA_kwDOO-FFfs4RR_Ja",
       "name": "reks-aurora.bin",
@@ -1114,10 +1114,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:29:49Z",
       "updated_at": "2025-09-05T07:30:05Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/reks-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/reks-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927452",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927452",
       "id": 289927452,
       "node_id": "RA_kwDOO-FFfs4RR_Ec",
       "name": "relm-aurora.bin",
@@ -1150,10 +1150,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:27:51Z",
       "updated_at": "2025-09-05T07:28:11Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/relm-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/relm-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927511",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927511",
       "id": 289927511,
       "node_id": "RA_kwDOO-FFfs4RR_FX",
       "name": "sand-aurora.bin",
@@ -1186,10 +1186,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:28:09Z",
       "updated_at": "2025-09-05T07:28:27Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/sand-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/sand-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927747",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927747",
       "id": 289927747,
       "node_id": "RA_kwDOO-FFfs4RR_JD",
       "name": "sentry-aurora.bin",
@@ -1222,10 +1222,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:29:39Z",
       "updated_at": "2025-09-05T07:29:54Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/sentry-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/sentry-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927786",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927786",
       "id": 289927786,
       "node_id": "RA_kwDOO-FFfs4RR_Jq",
       "name": "snappy-aurora.bin",
@@ -1258,10 +1258,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:29:55Z",
       "updated_at": "2025-09-05T07:30:15Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/snappy-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/snappy-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927232",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927232",
       "id": 289927232,
       "node_id": "RA_kwDOO-FFfs4RR_BA",
       "name": "stout-aurora.bin",
@@ -1294,10 +1294,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:26:34Z",
       "updated_at": "2025-09-05T07:26:56Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/stout-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/stout-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927930",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927930",
       "id": 289927930,
       "node_id": "RA_kwDOO-FFfs4RR_L6",
       "name": "strongbad-aurora.bin",
@@ -1330,10 +1330,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:31:21Z",
       "updated_at": "2025-09-05T07:31:48Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/strongbad-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/strongbad-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927618",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927618",
       "id": 289927618,
       "node_id": "RA_kwDOO-FFfs4RR_HC",
       "name": "tidus-aurora.bin",
@@ -1366,10 +1366,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:28:47Z",
       "updated_at": "2025-09-05T07:29:03Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/tidus-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/tidus-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927769",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927769",
       "id": 289927769,
       "node_id": "RA_kwDOO-FFfs4RR_JZ",
       "name": "trogdor-aurora.bin",
@@ -1402,10 +1402,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:29:49Z",
       "updated_at": "2025-09-05T07:30:10Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/trogdor-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/trogdor-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927725",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927725",
       "id": 289927725,
       "node_id": "RA_kwDOO-FFfs4RR_It",
       "name": "ultima-aurora.bin",
@@ -1438,10 +1438,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:29:30Z",
       "updated_at": "2025-09-05T07:29:55Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/ultima-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/ultima-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927671",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927671",
       "id": 289927671,
       "node_id": "RA_kwDOO-FFfs4RR_H3",
       "name": "volteer-aurora.bin",
@@ -1474,10 +1474,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:29:07Z",
       "updated_at": "2025-09-05T07:29:36Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/volteer-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/volteer-aurora.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/Aurora/releases/assets/289927587",
+      "url": "https://api.github.com/repos/AerialiteLabs/Aurora/releases/assets/289927587",
       "id": 289927587,
       "node_id": "RA_kwDOO-FFfs4RR_Gj",
       "name": "zork-aurora.bin",
@@ -1510,10 +1510,10 @@
       "download_count": 0,
       "created_at": "2025-09-05T07:28:40Z",
       "updated_at": "2025-09-05T07:28:59Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/Aurora/releases/download/v1.0.0/zork-aurora.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/Aurora/releases/download/v1.0.0/zork-aurora.bin"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/EtherealWorkshop/Aurora/tarball/v1.0.0",
-  "zipball_url": "https://api.github.com/repos/EtherealWorkshop/Aurora/zipball/v1.0.0",
+  "tarball_url": "https://api.github.com/repos/AerialiteLabs/Aurora/tarball/v1.0.0",
+  "zipball_url": "https://api.github.com/repos/AerialiteLabs/Aurora/zipball/v1.0.0",
   "body": ""
 }

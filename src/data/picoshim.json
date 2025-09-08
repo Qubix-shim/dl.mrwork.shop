@@ -1,8 +1,8 @@
 {
-  "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/243005491",
-  "assets_url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/243005491/assets",
-  "upload_url": "https://uploads.github.com/repos/EtherealWorkshop/PicoShim/releases/243005491/assets{?name,label}",
-  "html_url": "https://github.com/EtherealWorkshop/PicoShim/releases/tag/v1.0.0",
+  "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/243005491",
+  "assets_url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/243005491/assets",
+  "upload_url": "https://uploads.github.com/repos/AerialiteLabs/PicoShim/releases/243005491/assets{?name,label}",
+  "html_url": "https://github.com/AerialiteLabs/PicoShim/releases/tag/v1.0.0",
   "lowercasename": "picoshim",
   "id": 243005491,
   "author": {
@@ -38,7 +38,7 @@
   "published_at": "2025-08-27T22:06:55Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989036",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989036",
       "id": 286989036,
       "node_id": "RA_kwDOPlYMWc4RGxrs",
       "name": "picoshim-ambassador.bin",
@@ -71,10 +71,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:39:13Z",
       "updated_at": "2025-08-28T02:39:14Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-ambassador.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-ambassador.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989035",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989035",
       "id": 286989035,
       "node_id": "RA_kwDOPlYMWc4RGxrr",
       "name": "picoshim-banon.bin",
@@ -107,10 +107,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:39:12Z",
       "updated_at": "2025-08-28T02:39:14Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-banon.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-banon.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989484",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989484",
       "id": 286989484,
       "node_id": "RA_kwDOPlYMWc4RGxys",
       "name": "picoshim-brask.bin",
@@ -143,10 +143,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:41:23Z",
       "updated_at": "2025-08-28T02:41:24Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-brask.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-brask.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989447",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989447",
       "id": 286989447,
       "node_id": "RA_kwDOPlYMWc4RGxyH",
       "name": "picoshim-brya.bin",
@@ -179,10 +179,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:41:08Z",
       "updated_at": "2025-08-28T02:41:09Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-brya.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-brya.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989113",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989113",
       "id": 286989113,
       "node_id": "RA_kwDOPlYMWc4RGxs5",
       "name": "picoshim-clapper.bin",
@@ -215,10 +215,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:39:41Z",
       "updated_at": "2025-08-28T02:39:42Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-clapper.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-clapper.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989048",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989048",
       "id": 286989048,
       "node_id": "RA_kwDOPlYMWc4RGxr4",
       "name": "picoshim-coral.bin",
@@ -251,10 +251,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:39:17Z",
       "updated_at": "2025-08-28T02:39:18Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-coral.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-coral.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989481",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989481",
       "id": 286989481,
       "node_id": "RA_kwDOPlYMWc4RGxyp",
       "name": "picoshim-corsola.bin",
@@ -287,10 +287,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:41:19Z",
       "updated_at": "2025-08-28T02:41:21Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-corsola.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-corsola.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989032",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989032",
       "id": 286989032,
       "node_id": "RA_kwDOPlYMWc4RGxro",
       "name": "picoshim-cyan.bin",
@@ -323,10 +323,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:39:11Z",
       "updated_at": "2025-08-28T02:39:12Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-cyan.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-cyan.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989488",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989488",
       "id": 286989488,
       "node_id": "RA_kwDOPlYMWc4RGxyw",
       "name": "picoshim-dedede.bin",
@@ -359,10 +359,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:41:25Z",
       "updated_at": "2025-08-28T02:41:27Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-dedede.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-dedede.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989025",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989025",
       "id": 286989025,
       "node_id": "RA_kwDOPlYMWc4RGxrh",
       "name": "picoshim-edgar.bin",
@@ -395,10 +395,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:39:10Z",
       "updated_at": "2025-08-28T02:39:10Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-edgar.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-edgar.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989009",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989009",
       "id": 286989009,
       "node_id": "RA_kwDOPlYMWc4RGxrR",
       "name": "picoshim-elm.bin",
@@ -431,10 +431,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:39:04Z",
       "updated_at": "2025-08-28T02:39:05Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-elm.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-elm.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989127",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989127",
       "id": 286989127,
       "node_id": "RA_kwDOPlYMWc4RGxtH",
       "name": "picoshim-enguarde.bin",
@@ -467,10 +467,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:39:47Z",
       "updated_at": "2025-08-28T02:39:48Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-enguarde.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-enguarde.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989013",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989013",
       "id": 286989013,
       "node_id": "RA_kwDOPlYMWc4RGxrV",
       "name": "picoshim-fizz.bin",
@@ -503,10 +503,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:39:08Z",
       "updated_at": "2025-08-28T02:39:09Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-fizz.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-fizz.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989125",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989125",
       "id": 286989125,
       "node_id": "RA_kwDOPlYMWc4RGxtF",
       "name": "picoshim-glimmer.bin",
@@ -539,10 +539,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:39:47Z",
       "updated_at": "2025-08-28T02:39:48Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-glimmer.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-glimmer.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989231",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989231",
       "id": 286989231,
       "node_id": "RA_kwDOPlYMWc4RGxuv",
       "name": "picoshim-grunt.bin",
@@ -575,10 +575,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:40:23Z",
       "updated_at": "2025-08-28T02:40:24Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-grunt.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-grunt.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989153",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989153",
       "id": 286989153,
       "node_id": "RA_kwDOPlYMWc4RGxth",
       "name": "picoshim-hana.bin",
@@ -611,10 +611,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:39:58Z",
       "updated_at": "2025-08-28T02:39:59Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-hana.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-hana.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989129",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989129",
       "id": 286989129,
       "node_id": "RA_kwDOPlYMWc4RGxtJ",
       "name": "picoshim-hatch.bin",
@@ -647,10 +647,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:39:49Z",
       "updated_at": "2025-08-28T02:39:51Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-hatch.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-hatch.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989167",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989167",
       "id": 286989167,
       "node_id": "RA_kwDOPlYMWc4RGxtv",
       "name": "picoshim-jacuzzi.bin",
@@ -683,10 +683,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:40:02Z",
       "updated_at": "2025-08-28T02:40:03Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-jacuzzi.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-jacuzzi.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989195",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989195",
       "id": 286989195,
       "node_id": "RA_kwDOPlYMWc4RGxuL",
       "name": "picoshim-kalista.bin",
@@ -719,10 +719,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:40:07Z",
       "updated_at": "2025-08-28T02:40:08Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-kalista.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-kalista.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989706",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989706",
       "id": 286989706,
       "node_id": "RA_kwDOPlYMWc4RGx2K",
       "name": "picoshim-kefka.bin",
@@ -755,10 +755,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:42:25Z",
       "updated_at": "2025-08-28T02:42:26Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-kefka.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-kefka.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989953",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989953",
       "id": 286989953,
       "node_id": "RA_kwDOPlYMWc4RGx6B",
       "name": "picoshim-kukui.bin",
@@ -791,10 +791,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:44:24Z",
       "updated_at": "2025-08-28T02:44:26Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-kukui.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-kukui.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989838",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989838",
       "id": 286989838,
       "node_id": "RA_kwDOPlYMWc4RGx4O",
       "name": "picoshim-lulu.bin",
@@ -827,10 +827,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:43:33Z",
       "updated_at": "2025-08-28T02:43:34Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-lulu.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-lulu.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989690",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989690",
       "id": 286989690,
       "node_id": "RA_kwDOPlYMWc4RGx16",
       "name": "picoshim-nami.bin",
@@ -863,10 +863,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:42:20Z",
       "updated_at": "2025-08-28T02:42:20Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-nami.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-nami.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286990158",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286990158",
       "id": 286990158,
       "node_id": "RA_kwDOPlYMWc4RGx9O",
       "name": "picoshim-nissa.bin",
@@ -899,10 +899,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:45:35Z",
       "updated_at": "2025-08-28T02:45:36Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-nissa.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-nissa.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989403",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989403",
       "id": 286989403,
       "node_id": "RA_kwDOPlYMWc4RGxxb",
       "name": "picoshim-octopus.bin",
@@ -935,10 +935,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:41:03Z",
       "updated_at": "2025-08-28T02:41:04Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-octopus.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-octopus.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989851",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989851",
       "id": 286989851,
       "node_id": "RA_kwDOPlYMWc4RGx4b",
       "name": "picoshim-orco.bin",
@@ -971,10 +971,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:43:43Z",
       "updated_at": "2025-08-28T02:43:44Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-orco.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-orco.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989786",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989786",
       "id": 286989786,
       "node_id": "RA_kwDOPlYMWc4RGx3a",
       "name": "picoshim-puff.bin",
@@ -1007,10 +1007,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:43:06Z",
       "updated_at": "2025-08-28T02:43:07Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-puff.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-puff.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989810",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989810",
       "id": 286989810,
       "node_id": "RA_kwDOPlYMWc4RGx3y",
       "name": "picoshim-pyro.bin",
@@ -1043,10 +1043,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:43:23Z",
       "updated_at": "2025-08-28T02:43:24Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-pyro.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-pyro.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286990065",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286990065",
       "id": 286990065,
       "node_id": "RA_kwDOPlYMWc4RGx7x",
       "name": "picoshim-reef.bin",
@@ -1079,10 +1079,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:45:02Z",
       "updated_at": "2025-08-28T02:45:03Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-reef.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-reef.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989719",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989719",
       "id": 286989719,
       "node_id": "RA_kwDOPlYMWc4RGx2X",
       "name": "picoshim-reks.bin",
@@ -1115,10 +1115,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:42:31Z",
       "updated_at": "2025-08-28T02:42:32Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-reks.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-reks.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989583",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989583",
       "id": 286989583,
       "node_id": "RA_kwDOPlYMWc4RGx0P",
       "name": "picoshim-relm.bin",
@@ -1151,10 +1151,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:41:48Z",
       "updated_at": "2025-08-28T02:41:49Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-relm.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-relm.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286990198",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286990198",
       "id": 286990198,
       "node_id": "RA_kwDOPlYMWc4RGx92",
       "name": "picoshim-sand.bin",
@@ -1187,10 +1187,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:45:51Z",
       "updated_at": "2025-08-28T02:45:52Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-sand.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-sand.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989694",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989694",
       "id": 286989694,
       "node_id": "RA_kwDOPlYMWc4RGx1-",
       "name": "picoshim-sentry.bin",
@@ -1223,10 +1223,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:42:21Z",
       "updated_at": "2025-08-28T02:42:23Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-sentry.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-sentry.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989956",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989956",
       "id": 286989956,
       "node_id": "RA_kwDOPlYMWc4RGx6E",
       "name": "picoshim-snappy.bin",
@@ -1259,10 +1259,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:44:26Z",
       "updated_at": "2025-08-28T02:44:27Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-snappy.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-snappy.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989556",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989556",
       "id": 286989556,
       "node_id": "RA_kwDOPlYMWc4RGxz0",
       "name": "picoshim-stout.bin",
@@ -1295,10 +1295,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:41:40Z",
       "updated_at": "2025-08-28T02:41:41Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-stout.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-stout.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989879",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989879",
       "id": 286989879,
       "node_id": "RA_kwDOPlYMWc4RGx43",
       "name": "picoshim-strongbad.bin",
@@ -1331,10 +1331,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:43:56Z",
       "updated_at": "2025-08-28T02:43:57Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-strongbad.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-strongbad.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989733",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989733",
       "id": 286989733,
       "node_id": "RA_kwDOPlYMWc4RGx2l",
       "name": "picoshim-tidus.bin",
@@ -1367,10 +1367,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:42:38Z",
       "updated_at": "2025-08-28T02:42:39Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-tidus.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-tidus.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989946",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989946",
       "id": 286989946,
       "node_id": "RA_kwDOPlYMWc4RGx56",
       "name": "picoshim-trogdor.bin",
@@ -1403,10 +1403,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:44:21Z",
       "updated_at": "2025-08-28T02:44:22Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-trogdor.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-trogdor.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989649",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989649",
       "id": 286989649,
       "node_id": "RA_kwDOPlYMWc4RGx1R",
       "name": "picoshim-ultima.bin",
@@ -1439,10 +1439,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:42:08Z",
       "updated_at": "2025-08-28T02:42:09Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-ultima.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-ultima.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286989569",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286989569",
       "id": 286989569,
       "node_id": "RA_kwDOPlYMWc4RGx0B",
       "name": "picoshim-volteer.bin",
@@ -1475,10 +1475,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:41:46Z",
       "updated_at": "2025-08-28T02:41:47Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-volteer.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-volteer.bin"
     },
     {
-      "url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/releases/assets/286990319",
+      "url": "https://api.github.com/repos/AerialiteLabs/PicoShim/releases/assets/286990319",
       "id": 286990319,
       "node_id": "RA_kwDOPlYMWc4RGx_v",
       "name": "picoshim-zork.bin",
@@ -1511,10 +1511,10 @@
       "download_count": 0,
       "created_at": "2025-08-28T02:46:45Z",
       "updated_at": "2025-08-28T02:46:46Z",
-      "browser_download_url": "https://github.com/EtherealWorkshop/PicoShim/releases/download/v1.0.0/picoshim-zork.bin"
+      "browser_download_url": "https://github.com/AerialiteLabs/PicoShim/releases/download/v1.0.0/picoshim-zork.bin"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/tarball/v1.0.0",
-  "zipball_url": "https://api.github.com/repos/EtherealWorkshop/PicoShim/zipball/v1.0.0",
+  "tarball_url": "https://api.github.com/repos/AerialiteLabs/PicoShim/tarball/v1.0.0",
+  "zipball_url": "https://api.github.com/repos/AerialiteLabs/PicoShim/zipball/v1.0.0",
   "body": ""
 }
