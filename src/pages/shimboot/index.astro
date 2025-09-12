@@ -1,5 +1,5 @@
 ---
-import releaseData from '../../data/kvs.json';
+import releaseData from '../../data/shimboot.json';
 import { format } from 'date-fns';
 
 const releasename = releaseData.name.replace(/v.*$/, "").trim();
@@ -19,7 +19,7 @@ const assets = releaseData.assets.map(asset => ({
 <html lang="en">
   <head>
     <meta charset="utf-8">
-	<meta property="og:title" content="KVS - Mr. Workshop's Download Server">
+	<meta property="og:title" content="Sh1mmer - Mr. Workshop's Download Server">
 	<meta property="og:description" content="If they gave a prize for best downloads the winner would be him">
 	<meta property="og:image" content="/preview.png">
 	<meta property="og:url" content="https://dl.mrwork.shop/">
@@ -45,7 +45,7 @@ const assets = releaseData.assets.map(asset => ({
 		<a href="/sh1mmer">SH1MMER</a>
 		<a href="/nanoshims">Nanoshims</a>
 		<a href="/br0ker">Br0ker</a>
-		<a href="/kvs">KVS</a>
+		<a href="/shimboot">Shimboot</a>
 		<a href="/picoshim">Picoshim</a>
 	</div>
 	</div>
